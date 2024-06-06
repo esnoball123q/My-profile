@@ -15,7 +15,7 @@ body {
     padding: 20px;
     border-radius: 10px;
     text-align: center;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 02);
     width: 300px;
 }
 
@@ -31,7 +31,7 @@ h1 {
 }
 
 .location {
-    color: #fff;
+    color: #b5ff5c;
 }
 
 .bio {
@@ -67,5 +67,4 @@ footer {
 
 footer p {
     margin: 0;
-    color: #A1E44D;
 }
